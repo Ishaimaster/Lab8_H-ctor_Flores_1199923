@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\HP\source\repos\Version2Lab8_Hector_Flores_1199923\MyForm.h(668,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\Version2Lab8_Hector_Flores_1199923\MyForm.h(701,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Busqueda.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Version2Lab8_Hector_Flores_1199923.vcxproj -> C:\Users\HP\source\repos\Version2Lab8_Hector_Flores_1199923\x64\Debug\Version2Lab8_Hector_Flores_1199923.exe
